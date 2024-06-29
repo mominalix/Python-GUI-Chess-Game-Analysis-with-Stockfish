@@ -7,7 +7,6 @@ This application allows users to analyze chess games using Stockfish engine, vis
 - [Python GUI Chess Game Analysis with Stockfish](#python-gui-chess-game-analysis-with-stockfish)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-  - [Requirements](#requirements)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Files Structure](#files-structure)
@@ -20,13 +19,6 @@ This application allows users to analyze chess games using Stockfish engine, vis
 - **Evaluation Bar:** Visualize the evaluation score dynamically with a split bar indicating advantage for white and black sides.
 - **Move History:** Display the history of moves made in the game.
 - **Stockfish Integration:** Use Stockfish engine for game analysis and evaluation.
-
-## Requirements
-
-- Python 3.6+
-- tkinter (usually included in standard Python distributions)
-- Pillow (PIL fork for image handling, install via `pip install Pillow`)
-- Stockfish chess engine (included in the `stockfish` directory)
 
 ## Installation
 
