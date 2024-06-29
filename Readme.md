@@ -32,7 +32,7 @@ This application allows users to analyze chess games using Stockfish engine, vis
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Chess-Game-Analysis.git
+   git clone [https://github.com/your-username/Chess-Game-Analysis.git](https://github.com/mominalix/Python-GUI-Chess-Game-Analysis-with-Stockfish.git)
    cd Chess-Game-Analysis
    ```
 
