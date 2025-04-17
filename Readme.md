@@ -1,5 +1,7 @@
 # Python GUI Chess Game Analysis with Stockfish
 
+![Sample Screenshot](sample.png)
+
 This application allows users to analyze chess games using Stockfish engine, visualize the chessboard, and track game moves with a dynamic evaluation bar.
 
 ## Table of Contents
@@ -72,6 +74,7 @@ Chess-Game-Analysis/
 ├── engine.py              # Chess engine integration (Stockfish)
 ├── move_history.py        # Move history management
 ├── navigation.py          # Navigation buttons for moves
+├── sample.png            # Sample screenshot of the application
 ├── stockfish/             # Directory for Stockfish engine
 │   └── stockfish.exe      # Stockfish executable (platform specific)
 ├── assets/                # Directory for chess piece images
